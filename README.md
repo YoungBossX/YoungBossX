@@ -4,6 +4,5 @@
 </p>
 
 <p align="center">
-   🌐 <a href="{[你的主页或博客](https://github.com/YoungBossX)}">Homepage</a> 
+   🌐 <a href="{}">Homepage</a> 
 </p>
----
