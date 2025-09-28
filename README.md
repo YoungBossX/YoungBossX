@@ -5,4 +5,5 @@
 
 <p align="center">
    🌐 <a href="{https://github.com/YoungBossX}">Homepage</a> 
+   ✉️ <a href="mailto:{你的邮箱}">{你的邮箱}</a>
 </p>
