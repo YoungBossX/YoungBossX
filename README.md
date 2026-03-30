@@ -41,12 +41,8 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YoungBossX&theme=transparent&hide_border=true&stroke=39C7B7&ring=39C7B7&fire=f9e2af&currStreakLabel=cdd6f4&sideLabels=6E7681&dates=6E7681&currStreakNum=cdd6f4&sideNums=89b4fa" height="150"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoungBossX&bg_color=0d1117&color=39C7B7&line=89b4fa&point=f9e2af&area=true&area_color=39C7B7&hide_border=true" width="95%"/>
+
+<img src="https://streak-stats.demolab.com?user=YoungBossX&theme=transparent&hide_border=true&stroke=39C7B7&ring=39C7B7&fire=f9e2af&currStreakLabel=cdd6f4&sideLabels=6E7681&dates=6E7681&currStreakNum=cdd6f4&sideNums=89b4fa" height="150"/>
 
 </div>
