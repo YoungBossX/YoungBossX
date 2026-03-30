@@ -8,25 +8,34 @@
 
 ---
 
-## `ABOUT`
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- 🧠 &nbsp;Building **LLM-powered agents** with LangChain \ LangGraph
-- ⚙️ &nbsp;Deep in **Control Systems** theory & embedded engineering
-- 🔥 &nbsp;Training & fine-tuning models with **PyTorch**
-- 🤖 &nbsp;Exploring the boundary between **classical control** and **AI**
-- 📬 &nbsp;Reach me: `873107451@qq.com`
+**`AI & LLM`**
 
----
-
-## `STACK`
-
-**AI & LLM**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=39C7B7)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3dcfb0)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=89b4fa)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=graphql&logoColor=f9e2af)
-![OpenAI](https://img.shields.io/badge/LLM_Agent-0d1117?style=flat-square&logo=openai&logoColor=a6e3a1)
+![LLM Agent](https://img.shields.io/badge/LLM_Agent-0d1117?style=flat-square&logo=openai&logoColor=a6e3a1)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=f9e2af)
+
+</td>
+<td valign="top" width="50%">
+
+---
+
+**`Systems & Embedded`**
+
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=89b4fa)
+![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=89b4fa)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=f9e2af)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f38ba8)
+
+</td>
+</tr>
+</table>
 
 **Systems & Embedded**
 
