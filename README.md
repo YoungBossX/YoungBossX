@@ -8,6 +8,7 @@
 
 ---
 
+<div align="center">
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -34,13 +35,7 @@
 </td>
 </tr>
 </table>
-
-**Systems & Embedded**
-
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=89b4fa)
-![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=89b4fa)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=f9e2af)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f38ba8)
+</div>
 
 ---
 
