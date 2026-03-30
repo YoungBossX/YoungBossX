@@ -19,7 +19,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=89b4fa)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=graphql&logoColor=f9e2af)
-![LLM Agent](https://img.shields.io/badge/LLM_Agent-0d1117?style=flat-square&logo=openai&logoColor=a6e3a1)
+![LLM Agent](https://img.shields.io/badge/LLM_Agent-0d1117?style=flat-square&logo=anthropic&logoColor=a6e3a1)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=f9e2af)
 
 </td>
