@@ -24,8 +24,6 @@
 </td>
 <td valign="top" width="50%">
 
----
-
 **`Systems & Embedded`**
 
 ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=89b4fa)
