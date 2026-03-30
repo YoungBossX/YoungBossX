@@ -40,16 +40,13 @@
 ## `STATS`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoungBossX&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39C7B7&icon_color=89b4fa&text_color=cdd6f4&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungBossX&layout=compact&hide_border=true&bg_color=0d1117&title_color=39C7B7&text_color=cdd6f4&langs_count=6" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=YoungBossX&theme=transparent&hide_border=true&stroke=39C7B7&ring=39C7B7&fire=f9e2af&currStreakLabel=cdd6f4&sideLabels=6E7681&dates=6E7681&currStreakNum=cdd6f4&sideNums=89b4fa" height="150"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YoungBossX&theme=transparent&hide_border=true&stroke=39C7B7&ring=39C7B7&fire=f9e2af&currStreakLabel=cdd6f4&sideLabels=6E7681&dates=6E7681&currStreakNum=cdd6f4&sideNums=89b4fa" height="150"/>
-</div>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoungBossX&bg_color=0d1117&color=39C7B7&line=89b4fa&point=f9e2af&area=true&area_color=39C7B7&hide_border=true" width="95%"/>
 
-<div align="center">
-  <sub><code>Control the system. Own the agent. Ship the code.</code></sub>
 </div>
