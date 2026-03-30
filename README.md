@@ -10,7 +10,7 @@
 
 ## `ABOUT`
 
-- 🧠 &nbsp;Building **LLM-powered agents** with LangChain / LangGraph
+- 🧠 &nbsp;Building **LLM-powered agents** with LangChain 、 LangGraph
 - ⚙️ &nbsp;Deep in **Control Systems** theory & embedded engineering
 - 🔥 &nbsp;Training & fine-tuning models with **PyTorch**
 - 🤖 &nbsp;Exploring the boundary between **classical control** and **AI**
