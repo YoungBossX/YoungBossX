@@ -1,10 +1,10 @@
-# Xie Caicheng
-
 <div align="center">
 
-<p><strong>Control Engineer | AI Systems Builder</strong></p>
+<p><samp>CONTROL ENGINEER / AI SYSTEMS BUILDER</samp></p>
 
-<p>I build local-first coding agents, multi-agent workflows, and applied ML systems.</p>
+<h1>Xie Caicheng</h1>
+
+<p>Local-first AI systems for workflows that need planning, action, and evidence.</p>
 
 <p>
   <a href="https://github.com/YoungBossX">GitHub</a>
@@ -16,157 +16,85 @@
 
 </div>
 
-<hr>
+<br>
 
-<table>
-<tr>
-<td valign="top" width="55%">
+> I build tools that make complex workflows easier to inspect, operate, and improve.
 
-<h2>What I build</h2>
+## Selected work
 
 <p>
-I work at the intersection of control engineering, agent systems, and applied machine learning.
-My projects focus on useful workflows that run locally, expose their decisions, and leave evidence
-that can be reviewed.
-</p>
-
-<p>
-  <code>local-first</code>
-  <code>inspectable</code>
-  <code>systems-minded</code>
-</p>
-
-</td>
-<td valign="top" width="45%">
-
-<pre>
-request
-   |
-   v
-plan --> tools --> state
-  ^                  |
-  |                  v
-  +------ evidence --+
-</pre>
-
-</td>
-</tr>
-</table>
-
-## Featured work
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<h3><a href="https://github.com/YoungBossX/CC-Code">CC-Code</a></h3>
-
-<p>
+<sub>01 / CODING AGENTS</sub><br>
+<strong><a href="https://github.com/YoungBossX/CC-Code">CC-Code</a></strong><br>
 Standalone Python 3.11+ terminal coding assistant with an interactive TUI,
-tool-calling agents, Skills discovery, session persistence, permission-gated execution,
-and MCP integration.
+tool-calling agents, Skills discovery, session persistence, permission-gated
+execution, and MCP integration.<br>
+<code>Python</code> <code>TUI</code> <code>LLM Agent</code> <code>MCP</code>
 </p>
 
-<p><code>Python</code> <code>TUI</code> <code>LLM Agent</code> <code>MCP</code></p>
-
-</td>
-<td valign="top" width="50%">
-
-<h3><a href="https://github.com/YoungBossX/AgentHub">AgentHub</a></h3>
-
 <p>
+<sub>02 / MULTI-AGENT WORKSPACES</sub><br>
+<strong><a href="https://github.com/YoungBossX/AgentHub">AgentHub</a></strong><br>
 Local multi-agent coding workspace that turns a request into a plan, real Git diff,
-review, preview, and deployment evidence.
+review, preview, and deployment evidence.<br>
+<code>Python</code> <code>Multi-Agent</code> <code>SSE</code> <code>SQLite</code>
 </p>
 
-<p><code>Python</code> <code>Multi-Agent</code> <code>SSE</code> <code>SQLite</code></p>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-<h3><a href="https://github.com/YoungBossX/LangGraph-Trip-Planner">LangGraph Trip Planner</a></h3>
-
 <p>
+<sub>03 / PLANNING SYSTEMS</sub><br>
+<strong><a href="https://github.com/YoungBossX/LangGraph-Trip-Planner">LangGraph Trip Planner</a></strong><br>
 Multi-agent travel planner built with LangGraph, FastAPI, Vue 3, and AMap MCP
-for itinerary, route, weather, and POI recommendations.
+for itinerary, route, weather, and POI recommendations.<br>
+<code>LangGraph</code> <code>FastAPI</code> <code>Vue 3</code> <code>MCP</code>
 </p>
-
-<p><code>LangGraph</code> <code>FastAPI</code> <code>Vue 3</code> <code>MCP</code></p>
-
-</td>
-<td valign="top" width="50%">
-
-<h3>CC_Handmaking_LLM</h3>
 
 <p>
+<sub>04 / APPLIED ML</sub><br>
+<strong>CC_Handmaking_LLM</strong><br>
 From-scratch PyTorch LLM training pipeline covering pretraining, SFT, LoRA,
-DPO, PPO, and GRPO.
+DPO, PPO, and GRPO.<br>
+<code>Python</code> <code>PyTorch</code> <code>LLM</code>
 </p>
 
-<p><code>Python</code> <code>PyTorch</code> <code>LLM</code></p>
+## Working mode
 
-</td>
-</tr>
-</table>
+<code>local-first</code>
+<code>inspectable</code>
+<code>systems-minded</code>
 
-## GitHub activity
+## GitHub
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<p>
+  <a href="https://github.com/YoungBossX">
+    <img src="https://img.shields.io/github/followers/YoungBossX?style=flat-square&label=followers&labelColor=161b22&color=58a6ff" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/YoungBossX/CC-Code">
+    <img src="https://img.shields.io/github/stars/YoungBossX/CC-Code?style=flat-square&label=CC-Code%20stars&labelColor=161b22&color=3fb950" alt="CC-Code stars">
+  </a>
+  <a href="https://github.com/YoungBossX/YoungBossX">
+    <img src="https://img.shields.io/github/last-commit/YoungBossX/YoungBossX?style=flat-square&label=last%20update&labelColor=161b22&color=ff9f68" alt="Profile README last update">
+  </a>
+</p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=YoungBossX&amp;show_icons=true&amp;include_all_commits=true&amp;hide_title=true&amp;hide_border=true&amp;theme=github_dark">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=YoungBossX&amp;show_icons=true&amp;include_all_commits=true&amp;hide_title=true&amp;hide_border=true&amp;theme=default">
-  <img
-    width="100%"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=YoungBossX&amp;show_icons=true&amp;include_all_commits=true&amp;hide_title=true&amp;hide_border=true&amp;theme=default"
-    alt="YoungBossX GitHub activity">
-</picture>
+## Tools
 
-</td>
-<td valign="top" width="50%">
+**AI / LLM**  
+<code>Python</code> <code>PyTorch</code> <code>LangChain</code>
+<code>LangGraph</code> <code>Hugging Face</code>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungBossX&amp;layout=compact&amp;langs_count=6&amp;hide_title=true&amp;hide_border=true&amp;theme=github_dark">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungBossX&amp;layout=compact&amp;langs_count=6&amp;hide_title=true&amp;hide_border=true&amp;theme=default">
-  <img
-    width="100%"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungBossX&amp;layout=compact&amp;langs_count=6&amp;hide_title=true&amp;hide_border=true&amp;theme=default"
-    alt="YoungBossX top languages">
-</picture>
+**Systems**  
+<code>C</code> <code>C++</code> <code>Linux</code> <code>Git</code>
+<code>SQLite</code> <code>MCP</code>
 
-</td>
-</tr>
-</table>
+**Web / Services**  
+<code>FastAPI</code> <code>Vue 3</code> <code>Server-Sent Events</code>
 
-## Tech stack
-
-| Area | Tools |
-| --- | --- |
-| AI and LLM | Python, PyTorch, LangChain, LangGraph, LLM Agents, Hugging Face |
-| Systems and tools | C, C++, Linux, Git, SQLite, MCP |
-| Web and services | FastAPI, Vue 3, Server-Sent Events |
-
-## Working principles
+## Principles
 
 - Prefer local-first workflows when they improve privacy, latency, or control.
-- Make agent decisions and changes inspectable instead of hiding them behind a demo.
-- Treat software as a feedback loop: observe, act, measure, and improve.
+- Make agent decisions and changes inspectable.
+- Treat software as a feedback loop: observe, act, measure, improve.
 
-<hr>
+<br>
 
 <div align="center">
 <sub>Control engineering, agent systems, and practical machine learning.</sub>
