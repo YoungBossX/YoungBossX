@@ -1,94 +1,171 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Xie Caicheng - Control Engineering and AI Systems">
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:0891b2&height=190&section=header&text=XIE%20CAICHENG&fontSize=40&fontColor=e2f9ff&animation=fadeIn&fontAlignY=35&desc=CONTROL%20ENGINEERING%20%C3%97%20AI%20SYSTEMS&descAlignY=56&descSize=15"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&height=38&lines=Building+inspectable+AI+systems.;Observe+%E2%86%92+Plan+%E2%86%92+Act+%E2%86%92+Verify;Local-first.+Evidence-driven.+Human-controlled."
+/>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-YOUNGBOSSX-020617?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/YoungBossX)
+![Profile Views](https://komarev.com/ghpvc/?username=YoungBossX&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/YoungBossX?style=for-the-badge&color=f59e0b&labelColor=020617&label=FOLLOWERS)
+
 </div>
 
-<p align="center">
-  <samp>CONTROL ENGINEERING / AGENT SYSTEMS / APPLIED ML</samp>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/YoungBossX">GitHub</a>
-  &nbsp;&middot;&nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
-  &nbsp;&middot;&nbsp;
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-</p>
+## 01 · ABOUT
 
-<pre>
-$ xcc status
+```text
+XCC@SYSTEMS-LAB
 
-mode       local-first
-runtime    inspectable
-loop       observe -> plan -> act -> verify
-evidence   enabled
-</pre>
+ROLE        Graduate Student in Control Engineering
+FOCUS       AI Agents · LLM Applications · Developer Tools
+INTERESTS   Local-first Systems · Observable Workflows · Reliable Automation
+LOOP        Observe → Plan → Act → Verify
+STATUS      Building inspectable and controllable AI systems
+```
 
-## 01 // SELECTED SYSTEMS
+> I build practical AI systems with transparent execution, structured workflows and verifiable results.
 
-<p>
-<samp>CODING AGENTS</samp><br>
-<strong><a href="https://github.com/YoungBossX/CC-Code">CC-Code</a></strong><br>
-Standalone Python 3.11+ terminal coding assistant with an interactive TUI,
-tool-calling agents, Skills discovery, session persistence, permission-gated
-execution, and MCP integration.<br>
-<code>Python</code> <code>TUI</code> <code>LLM Agent</code> <code>MCP</code>
-</p>
+My current work focuses on coding agents, multi-agent orchestration, LLM applications and developer tools that keep humans in control.
 
-<p>
-<samp>MULTI-AGENT WORKSPACES</samp><br>
-<strong><a href="https://github.com/YoungBossX/AgentHub">AgentHub</a></strong><br>
-Local multi-agent coding workspace that turns a request into a plan, real Git diff,
-review, preview, and deployment evidence.<br>
-<code>Python</code> <code>Multi-Agent</code> <code>SSE</code> <code>SQLite</code>
-</p>
+<br/>
 
-<p>
-<samp>PLANNING SYSTEMS</samp><br>
-<strong><a href="https://github.com/YoungBossX/LangGraph-Trip-Planner">LangGraph Trip Planner</a></strong><br>
-Multi-agent travel planner built with LangGraph, FastAPI, Vue 3, and AMap MCP
-for itinerary, route, weather, and POI recommendations.<br>
-<code>LangGraph</code> <code>FastAPI</code> <code>Vue 3</code> <code>MCP</code>
-</p>
+## 02 · FEATURED PROJECTS
 
-<p>
-<samp>APPLIED ML</samp><br>
-<strong>CC_Handmaking_LLM</strong><br>
-From-scratch PyTorch LLM training pipeline covering pretraining, SFT, LoRA,
-DPO, PPO, and GRPO.<br>
-<code>Python</code> <code>PyTorch</code> <code>LLM</code>
-</p>
+### 01. [CC-Code](https://github.com/YoungBossX/CC-Code)
 
-## 02 // GITHUB TELEMETRY
+**A local-first coding agent built for transparent execution and controllable workflows.**
 
-<p>
-  <a href="https://github.com/YoungBossX">
-    <img src="https://img.shields.io/github/followers/YoungBossX?style=flat-square&label=followers&labelColor=0b1117&color=55d6be" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/YoungBossX/CC-Code">
-    <img src="https://img.shields.io/github/stars/YoungBossX/CC-Code?style=flat-square&label=CC-Code%20stars&labelColor=0b1117&color=ff9f68" alt="CC-Code stars">
-  </a>
-  <a href="https://github.com/YoungBossX/YoungBossX">
-    <img src="https://img.shields.io/github/last-commit/YoungBossX/YoungBossX?style=flat-square&label=last%20update&labelColor=0b1117&color=9bdcff" alt="Last update">
-  </a>
-</p>
+CC-Code explores how AI coding tools can expose their planning, tool usage and execution process instead of operating as an opaque black box.
 
-## 03 // TOOLCHAIN
+`CODING AGENT` `LOCAL FIRST` `DEVELOPER TOOLING`
 
-**AI / LLM**  
-<code>Python</code> <code>PyTorch</code> <code>LangChain</code> <code>LangGraph</code> <code>Hugging Face</code>
+<br/>
 
-**SYSTEMS**  
-<code>C</code> <code>C++</code> <code>Linux</code> <code>Git</code> <code>SQLite</code> <code>MCP</code>
+### 02. [AgentHub](https://github.com/YoungBossX/AgentHub)
 
-**WEB / SERVICES**  
-<code>FastAPI</code> <code>Vue 3</code> <code>Server-Sent Events</code>
+**An experimental workspace for composing and coordinating intelligent agents.**
 
-## 04 // OPERATING PRINCIPLES
+AgentHub focuses on multi-agent collaboration, task orchestration, message routing and systematic agent evaluation.
 
-> Observe before acting.  
-> Keep decisions inspectable.  
-> Close the loop with evidence.
+`MULTI-AGENT` `ORCHESTRATION` `EVALUATION`
 
-<p align="center">
-  <samp>observe -> plan -> act -> verify</samp>
-</p>
+<br/>
+
+### 03. [LangGraph Trip Planner](https://github.com/YoungBossX/LangGraph-Trip-Planner)
+
+**A graph-based travel planning system powered by structured agent workflows.**
+
+The project explores state management, conditional routing, tool invocation and persistent reasoning workflows with LangGraph.
+
+`LANGGRAPH` `STATEFUL WORKFLOW` `PLANNING`
+
+<br/>
+
+### 04. [CC_Handmaking_LLM](https://github.com/YoungBossX/CC_Handmaking_LLM)
+
+**Learning language models from first principles through hands-on implementation.**
+
+The repository documents practical implementations of tokenization, attention, model training and inference components.
+
+`LLM` `FROM SCRATCH` `DEEP LEARNING`
+
+<br/>
+
+## 03 · CURRENT FOCUS
+
+```text
+[ ACTIVE ]  Building observable and interruptible agent workflows
+[ STUDY  ]  LLM architecture, tool use and agent evaluation
+[ EXPLORE]  Local inference, context engineering and developer experience
+```
+
+<br/>
+
+## 04 · TOOLCHAIN
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=python,pytorch,js,ts,nodejs,react,git,github,docker,linux,vscode&theme=dark&perline=11"
+/>
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/PYTHON-0D1117?style=flat-square&logo=python&logoColor=22D3EE)
+![PyTorch](https://img.shields.io/badge/PYTORCH-0D1117?style=flat-square&logo=pytorch&logoColor=F59E0B)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-0D1117?style=flat-square&logo=langchain&logoColor=22D3EE)
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-0D1117?style=flat-square&logoColor=22D3EE)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0D1117?style=flat-square&logo=typescript&logoColor=22D3EE)
+![Docker](https://img.shields.io/badge/DOCKER-0D1117?style=flat-square&logo=docker&logoColor=22D3EE)
+![Linux](https://img.shields.io/badge/LINUX-0D1117?style=flat-square&logo=linux&logoColor=F59E0B)
+
+</div>
+
+<br/>
+
+## 05 · GITHUB ACTIVITY
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=YoungBossX&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=F59E0B&text_color=C9D1D9&ring_color=22D3EE&rank_icon=github"
+/>
+
+<img
+  height="165"
+  src="https://streak-stats.demolab.com?user=YoungBossX&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B"
+/>
+
+<br/><br/>
+
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YoungBossX&bg_color=0D1117&color=94A3B8&line=22D3EE&point=F59E0B&area=true&area_color=164E63&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"
+/>
+
+</div>
+
+<br/>
+
+## 06 · ENGINEERING PRINCIPLES
+
+> **OBSERVABILITY**  
+> Every important action should leave inspectable evidence.
+
+> **CONTROL**  
+> Automation should remain interruptible and reversible.
+
+> **LOCALITY**  
+> Keep data and execution local whenever practical.
+
+> **SIMPLICITY**  
+> Prefer understandable systems over decorative complexity.
+
+> **VERIFICATION**  
+> A result is incomplete until it can be independently checked.
+
+<br/>
+
+<div align="center">
+
+<sub>
+Build systems that can be observed, controlled and verified.
+</sub>
+
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,55:0f172a,100:020617&height=90&section=footer"
+  width="100%"
+/>
+
+</div>
