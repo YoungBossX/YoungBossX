@@ -1,79 +1,173 @@
-<h1 align="center">Xie Caicheng</h1>
+# Xie Caicheng
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=39C7B7&center=true&vCenter=true&width=600&lines=Control+Engineer+%7C+AI+Systems+Builder">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=0969DA&center=true&vCenter=true&width=600&lines=Control+Engineer+%7C+AI+Systems+Builder">
-    <img alt="Control Engineer | AI Systems Builder" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=0969DA&center=true&vCenter=true&width=600&lines=Control+Engineer+%7C+AI+Systems+Builder">
-  </picture>
+<div align="center">
+
+<p><strong>Control Engineer | AI Systems Builder</strong></p>
+
+<p>I build local-first coding agents, multi-agent workflows, and applied ML systems.</p>
+
+<p>
+  <a href="https://github.com/YoungBossX">GitHub</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+  &nbsp;&middot;&nbsp;
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
 </p>
 
-<p align="center">
-  I build local-first coding agents, multi-agent workflows, and applied ML systems.
+</div>
+
+<hr>
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+<h2>What I build</h2>
+
+<p>
+I work at the intersection of control engineering, agent systems, and applied machine learning.
+My projects focus on useful workflows that run locally, expose their decisions, and leave evidence
+that can be reviewed.
 </p>
 
-<p align="center">
-  <a href="https://github.com/YoungBossX/CC-Code">CC-Code</a> |
-  <a href="https://github.com/YoungBossX/AgentHub">AgentHub</a> |
-  <a href="https://github.com/YoungBossX/LangGraph-Trip-Planner">LangGraph Trip Planner</a>
+<p>
+  <code>local-first</code>
+  <code>inspectable</code>
+  <code>systems-minded</code>
 </p>
 
----
+</td>
+<td valign="top" width="45%">
 
-## `FEATURED WORK`
+<pre>
+request
+   |
+   v
+plan --> tools --> state
+  ^                  |
+  |                  v
+  +------ evidence --+
+</pre>
 
-### [CC-Code](https://github.com/YoungBossX/CC-Code)
+</td>
+</tr>
+</table>
 
-Standalone Python 3.11+ terminal coding assistant with an interactive TUI, tool-calling agents, Skills discovery, session persistence, permission-gated execution, and MCP integration.
+## Featured work
 
-`Python` `TUI` `LLM Agent` `MCP`
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### [LangGraph Trip Planner](https://github.com/YoungBossX/LangGraph-Trip-Planner)
+<h3><a href="https://github.com/YoungBossX/CC-Code">CC-Code</a></h3>
 
-Multi-agent travel planner built with LangGraph, FastAPI, Vue 3, and AMap MCP for itinerary, route, weather, and POI recommendations.
-
-`LangGraph` `FastAPI` `Vue 3` `MCP`
-
-### [AgentHub](https://github.com/YoungBossX/AgentHub)
-
-Local multi-agent coding workspace that turns a request into a plan, real Git diff, review, preview, and deployment evidence.
-
-`Python` `Multi-Agent` `SSE` `SQLite`
-
-### [CC_Handmaking_LLM](https://github.com/YoungBossX/CC_Handmaking_LLM)
-
-From-scratch PyTorch LLM training pipeline covering pretraining, SFT, LoRA, DPO, PPO, and GRPO.
-
-`Python` `PyTorch` `LLM`
-
----
-
-## `TECH STACK`
-
-**AI & LLM**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3dcfb0)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=89b4fa)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logoColor=f9e2af)
-![LLM Agent](https://img.shields.io/badge/LLM_Agent-0d1117?style=flat-square&logoColor=a6e3a1)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface&logoColor=f9e2af)
-
-**Systems & Tools**
-
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=89b4fa)
-![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=89b4fa)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=f9e2af)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f38ba8)
-
----
-
-## `ACTIVITY`
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YoungBossX&theme=dark&hide_border=true&stroke=39C7B7&ring=39C7B7&fire=f9e2af&currStreakLabel=cdd6f4&sideLabels=8b949e&dates=8b949e&currStreakNum=cdd6f4&sideNums=89b4fa">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=YoungBossX&theme=default&hide_border=true&stroke=0969da&ring=0969da&fire=bf8700&currStreakLabel=57606a&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=0969da">
-    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=YoungBossX&theme=default&hide_border=true&stroke=0969da&ring=0969da&fire=bf8700&currStreakLabel=57606a&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=0969da" height="150">
-  </picture>
+<p>
+Standalone Python 3.11+ terminal coding assistant with an interactive TUI,
+tool-calling agents, Skills discovery, session persistence, permission-gated execution,
+and MCP integration.
 </p>
+
+<p><code>Python</code> <code>TUI</code> <code>LLM Agent</code> <code>MCP</code></p>
+
+</td>
+<td valign="top" width="50%">
+
+<h3><a href="https://github.com/YoungBossX/AgentHub">AgentHub</a></h3>
+
+<p>
+Local multi-agent coding workspace that turns a request into a plan, real Git diff,
+review, preview, and deployment evidence.
+</p>
+
+<p><code>Python</code> <code>Multi-Agent</code> <code>SSE</code> <code>SQLite</code></p>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<h3><a href="https://github.com/YoungBossX/LangGraph-Trip-Planner">LangGraph Trip Planner</a></h3>
+
+<p>
+Multi-agent travel planner built with LangGraph, FastAPI, Vue 3, and AMap MCP
+for itinerary, route, weather, and POI recommendations.
+</p>
+
+<p><code>LangGraph</code> <code>FastAPI</code> <code>Vue 3</code> <code>MCP</code></p>
+
+</td>
+<td valign="top" width="50%">
+
+<h3>CC_Handmaking_LLM</h3>
+
+<p>
+From-scratch PyTorch LLM training pipeline covering pretraining, SFT, LoRA,
+DPO, PPO, and GRPO.
+</p>
+
+<p><code>Python</code> <code>PyTorch</code> <code>LLM</code></p>
+
+</td>
+</tr>
+</table>
+
+## GitHub activity
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=YoungBossX&amp;show_icons=true&amp;include_all_commits=true&amp;hide_title=true&amp;hide_border=true&amp;theme=github_dark">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=YoungBossX&amp;show_icons=true&amp;include_all_commits=true&amp;hide_title=true&amp;hide_border=true&amp;theme=default">
+  <img
+    width="100%"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=YoungBossX&amp;show_icons=true&amp;include_all_commits=true&amp;hide_title=true&amp;hide_border=true&amp;theme=default"
+    alt="YoungBossX GitHub activity">
+</picture>
+
+</td>
+<td valign="top" width="50%">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungBossX&amp;layout=compact&amp;langs_count=6&amp;hide_title=true&amp;hide_border=true&amp;theme=github_dark">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungBossX&amp;layout=compact&amp;langs_count=6&amp;hide_title=true&amp;hide_border=true&amp;theme=default">
+  <img
+    width="100%"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungBossX&amp;layout=compact&amp;langs_count=6&amp;hide_title=true&amp;hide_border=true&amp;theme=default"
+    alt="YoungBossX top languages">
+</picture>
+
+</td>
+</tr>
+</table>
+
+## Tech stack
+
+| Area | Tools |
+| --- | --- |
+| AI and LLM | Python, PyTorch, LangChain, LangGraph, LLM Agents, Hugging Face |
+| Systems and tools | C, C++, Linux, Git, SQLite, MCP |
+| Web and services | FastAPI, Vue 3, Server-Sent Events |
+
+## Working principles
+
+- Prefer local-first workflows when they improve privacy, latency, or control.
+- Make agent decisions and changes inspectable instead of hiding them behind a demo.
+- Treat software as a feedback loop: observe, act, measure, and improve.
+
+<hr>
+
+<div align="center">
+<sub>Control engineering, agent systems, and practical machine learning.</sub>
+</div>
