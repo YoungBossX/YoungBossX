@@ -171,25 +171,22 @@ The repository documents practical implementations of tokenization, attention me
 
 <br/>
 
-## 07 · CONTACT CHANNEL
-
-<div align="center">
+## 07 · CONTACT
 
 ```text
-CHANNEL     EMAIL
-ADDRESS     873107351@qq.com
-TOPICS      AI Agents · LLM Applications · Developer Tools
+EMAIL       873107351@qq.com
+FOCUS       AI Agents · LLM Applications · Developer Tools
 STATUS      Open to technical discussions and project collaboration
 ```
 
-<br/>
+<div align="center">
 
 [![Send Email](https://img.shields.io/badge/SEND_EMAIL-873107351%40QQ.COM-0891B2?style=for-the-badge&logo=maildotru&logoColor=ffffff&labelColor=020617)](mailto:873107351@qq.com)
 
 <br/><br/>
 
 <sub>
-For technical discussions, research communication and project collaboration.
+Technical discussions · Research communication · Project collaboration
 </sub>
 
 <br/><br/>
