@@ -42,17 +42,7 @@ STATUS      持续完善个人项目与工程实践
 
 ## 02 · FEATURED SYSTEMS
 
-### 01. [CC-Code](https://github.com/YoungBossX/CC-Code)
-
-**面向本地开发的终端编码助手。**
-
-项目产品名为 **CC-Coder**，提供交互式 TUI、工具调用、会话持久化与受权限控制的本地执行，支持通过 Skills 和 MCP 扩展工作流。
-
-`PYTHON` `CODING AGENT` `SKILLS / MCP`
-
-<br/>
-
-### 02. [AgentHub](https://github.com/YoungBossX/AgentHub)
+### 01. [AgentHub](https://github.com/YoungBossX/AgentHub)
 
 **面向本机单用户开发的多 Agent 编程工作台。**
 
@@ -62,17 +52,17 @@ STATUS      持续完善个人项目与工程实践
 
 <br/>
 
-### 03. [LangGraph Trip Planner](https://github.com/YoungBossX/LangGraph-Trip-Planner)
+### 02. [XClaude](https://github.com/YoungBossX/XClaude)
 
-**将景点、天气和住宿信息组织成多日旅行计划。**
+**将工具执行、权限审批与会话恢复组织成可追踪的本地 Agent 运行时。**
 
-使用 LangGraph 编排职责分明的 Agent，通过高德地图 MCP 获取搜索、坐标与天气信息，再生成结构化行程并展示执行进度。
+通过独立的 x-core 常驻进程承载 Agent Loop，CLI 与 Textual TUI 作为客户端接入，集中管理工具调用、子 Agent 协作和执行记录。
 
-`LANGGRAPH` `AMAP MCP` `FASTAPI / VUE 3`
+`PYTHON / TEXTUAL` `AGENT RUNTIME` `SKILLS / MCP`
 
 <br/>
 
-### 04. [CC_Handmaking_LLM](https://github.com/YoungBossX/CC_Handmaking_LLM)
+### 03. [CC_Handmaking_LLM](https://github.com/YoungBossX/CC_Handmaking_LLM)
 
 **围绕轻量语言模型开展 PyTorch 训练与评测实践。**
 
@@ -94,21 +84,31 @@ STATUS      持续完善个人项目与工程实践
 
 ## 04 · TOOLCHAIN
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Cfastapi%2Cts%2Cnodejs%2Creact%2Cnextjs%2Cgit%2Cgithub%2Cdocker%2Clinux%2Cvscode&theme=dark&perline=6" />
+    <img width="100%" alt="AI, web and engineering tools — twelve icons in balanced rows" src="https://skillicons.dev/icons?i=python%2Cpytorch%2Cfastapi%2Cts%2Cnodejs%2Creact%2Cnextjs%2Cgit%2Cgithub%2Cdocker%2Clinux%2Cvscode&theme=dark&perline=12" />
+  </picture>
+</p>
 
-<img
-  alt="Tools used across AI, web and engineering projects"
-  src="https://skillicons.dev/icons?i=python,pytorch,js,ts,nodejs,react,git,github,docker,linux,vscode&theme=dark&perline=6"
-/>
-
-<br/><br/>
-
-| Direction | Tools in practice |
-| :--- | :--- |
-| **Agent & LLM** | Python · PyTorch · LangChain · LangGraph · MCP |
-| **Backend & Web** | FastAPI · TypeScript · React · Next.js · Vue 3 |
-| **Engineering** | Git · Docker · Linux |
-</div>
+<table>
+  <tr>
+    <th align="left" width="180">Direction</th>
+    <th align="left" width="660">Tools in practice</th>
+  </tr>
+  <tr>
+    <td><strong>Agent &amp; LLM</strong></td>
+    <td>Python · PyTorch · Agent Loop · Skills · MCP</td>
+  </tr>
+  <tr>
+    <td><strong>Backend &amp; Web</strong></td>
+    <td>FastAPI · TypeScript · React · Next.js · Node.js</td>
+  </tr>
+  <tr>
+    <td><strong>Engineering</strong></td>
+    <td>Git · GitHub · Docker · Linux · VS Code</td>
+  </tr>
+</table>
 
 <br/>
 
@@ -123,25 +123,26 @@ STATUS      持续完善个人项目与工程实践
 
 <br/>
 
+<p align="center">
 <img
-  height="165"
+  width="414"
   alt="GitHub contribution statistics"
-  src="https://github-readme-stats.vercel.app/api?username=YoungBossX&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=F59E0B&text_color=C9D1D9&ring_color=22D3EE&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=YoungBossX&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=F59E0B&text_color=C9D1D9&ring_color=22D3EE&rank_icon=github&card_width=495"
 />
-
 <img
-  height="165"
+  width="414"
   alt="GitHub contribution streak"
-  src="https://streak-stats.demolab.com?user=YoungBossX&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=94A3B8&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=64748B"
+  src="https://streak-stats.demolab.com?user=YoungBossX&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=94A3B8&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=64748B&card_width=495&card_height=195"
 />
+</p>
 
-<br/><br/>
+<br/>
 
 <details>
 <summary>近 31 天贡献曲线</summary>
 
 <img
-  width="96%"
+  width="100%"
   alt="Public GitHub contribution activity graph"
   src="https://github-readme-activity-graph.vercel.app/graph?username=YoungBossX&bg_color=0D1117&color=94A3B8&title_color=22D3EE&line=22D3EE&point=F59E0B&area=true&area_color=164E63&hide_border=true&radius=8&custom_title=PUBLIC%20CONTRIBUTIONS&days=31"
 />
@@ -152,11 +153,7 @@ STATUS      持续完善个人项目与工程实践
 
 <br/>
 
-<code>PUBLIC GITHUB ACTIVITY</code>
-&nbsp;
-<code>COMMITS / CONTRIBUTIONS</code>
-&nbsp;
-<code>MODE: OBSERVE / BUILD / VERIFY</code>
+<p align="center"><code>PUBLIC GITHUB ACTIVITY</code> &nbsp; <code>COMMITS / CONTRIBUTIONS</code> &nbsp; <code>MODE: OBSERVE / BUILD / VERIFY</code></p>
 
 </div>
 
